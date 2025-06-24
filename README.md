@@ -18,8 +18,6 @@ The raw sequencing data generated in this study are available under the followin
 |-------------------|------------------|--------------------------------------------------------------|
 | sgPTGES3 ATAC-seq | GSE180034        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180034 |
 | sgPTGES3 mRNA-seq | GSE180035        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180035 |
-| PTGES3i ATAC-seq  | GSE180036        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180036 |
-| PTGES3i mRNA-seq  | GSE213905        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE213905 |
 | sgPTGES3 ChIP-seq | GSE292612        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292612 |
 
 #### Processed Dataset
@@ -29,6 +27,4 @@ The processed data required to reproduce the analyses and figures in this study 
 |-------------------------|-------------------------------------------------------------------------------------------------------------|
 | sgPTGES3 ATAC-seq       | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15678438.svg)](https://doi.org/10.5281/zenodo.15678438) |
 | sgPTGES3 mRNA-seq       | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15678438.svg)](https://doi.org/10.5281/zenodo.15678438) |
-| PTGES3i ATAC-seq        | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15678438.svg)](https://doi.org/10.5281/zenodo.15678438) |
-| PTGES3i mRNA-seq        | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15678438.svg)](https://doi.org/10.5281/zenodo.15678438) |
 | mass spec. post process | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15678438.svg)](https://doi.org/10.5281/zenodo.15678438) |
