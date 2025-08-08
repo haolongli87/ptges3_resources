@@ -2,8 +2,9 @@
 _This code repository is designed to reproduce the analyses described in Li et al., 2025._
 
 ### Citation
-Haolong Li, James E. Melnyk, Becky Xu Hua Fu, Raunak Shrestha, Meng Zhang, Martin Sjöström, Siyu Feng, Jasmine A. Anderson, Wanting Han, Lisa N. Chesner, Hyun Jin Shin, Tatyanah Farsh, Humberto J. Suarez, Seema Nath, Jonathan Chou, Rajdeep Das, Emily A. Egusa, Jun Zhu, Aidan Winters, Ashutosh Maheshwari, Junjie T. Hua, Mohammed Alshalalfa, William S. Chen, Marsha Calvert, Elai Davicioni, Audrey Kishishita, Abhilash Barpanda, Tianyi Liu, Arun P. Wiita, Bradley A. Stohr, Javed Siddiqui, Bo Huang, Eric J. Small, Kevan M. Shokat, Peter Nelson, David A. Quigley, Elizabeth V. Wasmuth, Luke A. Gilbert, Felix Y. Feng
-*"Genome-wide CRISPR screens identify PTGES3 as a novel AR modulator."* Nature Genetics. 2025. (Accepted) [https://doi.org/10.1101/2025.05.29.656244](https://doi.org/10.1101/2025.05.29.656244)
+Haolong Li, James E. Melnyk, Becky Xu Hua Fu, Raunak Shrestha, Meng Zhang, Martin Sjöström, Siyu Feng, Jasmine A. Anderson, Wanting Han, Lisa N. Chesner, Hyun Jin Shin, Tatyanah Farsh, Humberto J. Suarez, Seema Nath, Jonathan Chou, Rajdeep Das, Emily A. Egusa, Marsha Calvert, Audrey Kishishita, Abhilash Barpanda, Jun Zhu, Ashutosh Maheshwari, William S. Chen, Mohammed Alshalalfa, Aidan Winters, Junjie T. Hua, Tianyi Liu, Elai Davicioni, Arun P. Wiita, Bradley A. Stohr, Javed Siddiqui, Bo Huang, Eric J. Small, Kevan M. Shokat, Peter S. Nelson, David A. Quigley, Elizabeth V. Wasmuth, Luke A. Gilbert, and Felix Y. Feng
+
+*"Genome-wide CRISPR screens identify PTGES3 as a novel AR modulator."* Nature Genetics. 2025. (Accepted in principle) [https://doi.org/10.1101/2025.05.29.656244](https://doi.org/10.1101/2025.05.29.656244)
 
 
 ### For any further inquries
@@ -19,6 +20,8 @@ The raw sequencing data generated in this study are available under the followin
 | sgPTGES3 ATAC-seq | GSE180034        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180034 |
 | sgPTGES3 mRNA-seq | GSE180035        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180035 |
 | sgPTGES3 ChIP-seq | GSE292612        | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292612 |
+| crispr screen     | PRJNA1284972     | https://www.ncbi.nlm.nih.gov/sra/PRJNA1284972                |
+| proteomics data   | PXD066297        | https://www.ebi.ac.uk/pride/archive/projects/PXD066297       |
 
 #### Processed Dataset
 The processed data required to reproduce the analyses and figures in this study are too large to publish on GitHub. These files can be obtained at Zenodo at DOI:
